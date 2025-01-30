@@ -1,6 +1,9 @@
-# Elagas Amel
-Qui suis je ?
-## Hi there, nice to meet you!
+# **Elagas Amel**  
+## **DevOps Engineer | CloudOps Specialist**  
+
+### **Hello, and welcome to my profile!**
+
+I'm Elagas Amel, a passionate **DevOps Engineer** with strong expertise in Cloud Infrastructure, Automation, CI/CD pipelines, and more. I thrive on creating robust and scalable systems using the latest technologies. Below you'll find more about my work, my current tech stack, and some quotes that inspire my journey.
 
 - **[GitHub](https://github.com/Elagasamel)**
 - **[LinkedIn](https://www.linkedin.com/in/elagas-amel/)**
@@ -9,31 +12,37 @@ Qui suis je ?
 
 ---
 
-### **CURRENT STACK**
-| **Technologies** | **Logos** |
-|------------------|-----------|
-| Jenkins          | <img src="https://miro.medium.com/max/1600/1*LOFbTP2SxXcFpM_qTsUSuw.png" alt="Jenkins" width="70" height="70" /> |
-| Terraform        | <img src="https://raw.githubusercontent.com/hashicorp/terraform-website/master/content/source/assets/images/og-image.png" alt="Terraform" width="70" height="70" /> |
-| Ansible          | <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="70" height="70" /> |
-| GCP (Google Cloud Platform) | <img src="https://cloud.google.com/static/images/shared/icons/cloud-logo.svg" alt="GCP" width="70" height="70" /> |
-| Grafana          | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Grafana" width="70" height="70" /> |
-| Prometheus       | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="Prometheus" width="70" height="70" /> |
-| AWS              | <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="70" height="70" /> |
-| Docker           | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="70" height="70" /> |
-| Nginx            | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" width="70" height="70" /> |
+### **CURRENT TECHNOLOGIES STACK**
+| **Technologies**       | **Logos**                                                                 |
+|------------------------|---------------------------------------------------------------------------|
+| **Jenkins**            | <img src="https://miro.medium.com/max/1600/1*LOFbTP2SxXcFpM_qTsUSuw.png" width="70" height="70" /> |
+| **Terraform**          | <img src="https://raw.githubusercontent.com/hashicorp/terraform-website/master/content/source/assets/images/og-image.png" width="70" height="70" /> |
+| **Ansible**            | <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="70" height="70" /> |
+| **Google Cloud**       | <img src="https://cloud.google.com/static/images/shared/icons/cloud-logo.svg" width="70" height="70" /> |
+| **Grafana**            | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="70" height="70" /> |
+| **Prometheus**         | <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" width="70" height="70" /> |
+| **AWS**                | <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="70" height="70" /> |
+| **Docker**             | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="70" height="70" /> |
+| **Nginx**              | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" width="70" height="70" /> |
 
 ---
 
 ### **PROGRESSING IN**
-| **Technologies** | **Logos** |
-|------------------|-----------|
-| Kubernetes       | <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="Kubernetes" width="70" height="70" /> |
-| Azure            | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure" width="70" height="70" /> |
+| **Technologies**       | **Logos**                                                                 |
+|------------------------|---------------------------------------------------------------------------|
+| **Kubernetes**         | <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="70" height="70" /> |
+| **Azure**              | <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="70" height="70" /> |
 
 ---
 
-### **Quotes**
-> ***"You need to rescue the princess with code - but sometimes your code doesn't work and the princess is a dragon and you're a fish. Welcome to programming:"***  
+### **DevOps Philosophy & Best Practices**
+
+I’m passionate about **Infrastructure as Code (IaC)**, **Continuous Integration/Continuous Deployment (CI/CD)**, and **Automation**. My goal is to create reliable, scalable systems that enhance development workflows. I continuously work on improving system performance, uptime, and security across cloud platforms like **AWS**, **Google Cloud**, and **Azure**. 
+
+---
+
+### **Favorite Quotes**
+> ***"You need to rescue the princess with code - but sometimes your code doesn't work and the princess is a dragon and you're a fish. Welcome to programming."***  
 > — [Toggl](https://toggl.com/programming-princess/)
 
 > ***"Premature optimization is the root of all evil in programming."***  
@@ -71,17 +80,3 @@ Qui suis je ?
 
 ---
 
-<!--
-👋 😃
-**elagas-amel/elagas-amel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
