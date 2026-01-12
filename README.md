@@ -13,7 +13,7 @@
 ## 👋 **About Me**
 
 I am **Elagas Amel**, a passionate **DevOps Engineer** with **4+ years of experience** in:  
-- **Cloud Infrastructure Management** (AWS, GCP, Azure)  
+- **Cloud Infrastructure Management** (AWS, GCP, Azure, OCI)  
 - **Automation, CI/CD, and Containerization**  
 - **Monitoring, Security, and Cost Optimization**  
 
